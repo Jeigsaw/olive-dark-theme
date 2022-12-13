@@ -3,6 +3,7 @@
   "displayName": "Olive Dark Theme",
   "description": "A dark theme with an olive accent!",
   "version": "1.0.0",
+  "publisher": "Jeigsaw",
   "author": "Jeigsaw",
   "engines": {
     "vscode": "^1.74.0"
