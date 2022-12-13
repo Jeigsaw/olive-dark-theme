@@ -1,0 +1,27 @@
+{
+  "name": "olive-dark-theme",
+  "displayName": "Olive Dark Theme",
+  "description": "A dark theme with an olive accent!",
+  "version": "1.0.0",
+  "author": "Jeigsaw",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/jeigsaw/olive-dark-theme.git"
+	},
+  "icon": "assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Olive Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/olive-dark-color-theme.json"
+      }
+    ]
+  }
+}
