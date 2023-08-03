@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeigsaw/olive-dark-theme/main/assets/icon.png" alt="Olive Dark Theme logo" width="150">
+  <img src="https://raw.githubusercontent.com/Jeigsaw/olive-dark-theme/main/assets/ico.png" alt="Olive Dark Theme logo" width="150">
 </p>
 
 <h2 align="center">Olive Dark Theme</h2>
